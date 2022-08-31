@@ -1,0 +1,14 @@
+.Button {
+  box-shadow: var(--box-shadow-md);
+  font-weight: 600;
+  padding: 10px 16px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.Button-disabled {
+  cursor: not-allowed;
+}

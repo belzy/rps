@@ -1,0 +1,14 @@
+.Select {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  min-width: 100px;
+  font-size: .9rem;
+  padding: 6px;
+}
+
+.Select > option {
+  padding: 6px;
+  border-radius: 3px;
+}
